@@ -1,0 +1,42 @@
+# Arrays - Data Structures & Algorithms
+
+This folder contains **Array-based problems** and their solutions.
+
+## 📚 Topics Covered
+
+- Two Sum
+- Maximum Subarray
+- Merge Sorted Arrays
+- Remove Duplicates
+- Rotate Array
+- and more...
+
+## 📝 How to Add Problems
+
+1. Create a subfolder with problem name: `mkdir TwoSum`
+2. Add `Solution.java` with the implementation
+3. Add `README.md` with:
+   - Problem description
+   - Examples
+   - Approach/Algorithm
+   - Time & Space Complexity
+   - Test cases
+
+## 🚀 Example Structure
+
+```
+Arrays/
+├── TwoSum/
+│   ├── Solution.java
+│   ├── README.md
+│   └── TestCases.java
+├── MaximumSubarray/
+│   ├── Solution.java
+│   ├── README.md
+│   └── TestCases.java
+```
+
+---
+
+Happy Coding! 🎯
+
